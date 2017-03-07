@@ -5,12 +5,10 @@ Review list
     - All the proofs are worth reading
 - Algorithms (Princeton)
 	- Clearer; Easier to read, such as using 2-3 tree to illustrate red-black tree
-    - In contrast, some topics are not as deep as <Introdution to Algorithms, Third Edition>
+    - In contrast, some topics are not as deep as "Introdution to Algorithms, Third Edition"
 - The Art of Computer Programming
 	- Much older than the rest two
     - Very personal. Not designed for being a texbook
     - has a lot of interesting comments. Feel like Knuth is chatting with you
     
-Introdution to Algorithms vs. Algorithms is like the Dragon book vs Engineering a Compiler. 
-
-
+Introdution to Algorithms vs. Algorithms is like the Dragon book vs Engineering a Compiler.
