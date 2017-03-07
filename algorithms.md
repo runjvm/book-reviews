@@ -1,7 +1,7 @@
 Review list
 - Introdution to Algorithms, Third Edition (AKA CLRS)
-	- Not as systematic as <algorithms>. Points are often hidden in the middle of a paragraph
-    - Sometime goes to great details on some topic
+	- Not as systematic as "Algorithms". Points are often hidden in the middle of a paragraph
+	- Sometime goes to great details on some topic
     - All the proofs are worth reading
 - Algorithms (Princeton)
 	- Clearer; Easier to read, such as using 2-3 tree to illustrate red-black tree
