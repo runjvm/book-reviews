@@ -2,6 +2,7 @@ Review list
 - Introdution to Algorithms, Third Edition (AKA CLRS)
 	- Not as systematic as <algorithms>. Less organized. 
     - Sometime goes to great details on some topic
+    - All the proofs are worth reading
 - Algorithms (Princeton)
 	- Clearer; Easier to read
     - In contrast, some topics are not as deep as <Introdution to Algorithms, Third Edition>
