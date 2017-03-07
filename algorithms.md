@@ -8,7 +8,7 @@ Review list
 - The Art of Computer Programming
 	- Much older than the rest two
     - Very personal. Not designed for being a texbook
-    - Feel like Knuth is chatting with you
+    - has a lot of interesting comments. Feel like Knuth is chatting with you
     
 Introdution to Algorithms vs. Algorithms is like the Dragon book vs Engineering a compiler. 
 
