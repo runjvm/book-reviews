@@ -10,6 +10,6 @@ Review list
     - Very personal. Not designed for being a texbook
     - has a lot of interesting comments. Feel like Knuth is chatting with you
     
-Introdution to Algorithms vs. Algorithms is like the Dragon book vs Engineering a compiler. 
+Introdution to Algorithms vs. Algorithms is like the Dragon book vs Engineering a Compiler. 
 
 
