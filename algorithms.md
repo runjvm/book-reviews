@@ -4,7 +4,7 @@ Review list
     - Sometime goes to great details on some topic
     - All the proofs are worth reading
 - Algorithms (Princeton)
-	- Clearer; Easier to read, such as the red-black tree part
+	- Clearer; Easier to read, such as using 2-3 tree to illustrate red-black tree part
     - In contrast, some topics are not as deep as <Introdution to Algorithms, Third Edition>
 - The Art of Computer Programming
 	- Much older than the rest two
